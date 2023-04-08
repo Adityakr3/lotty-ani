@@ -1,0 +1,1 @@
+The client folder is for the react code which will be utilized in future
